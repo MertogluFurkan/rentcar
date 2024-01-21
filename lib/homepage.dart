@@ -194,7 +194,7 @@ class _DiscoverState extends State<Discover> {
               CircularProgressIndicator(color: Colors.grey),
               SizedBox(height: 20),
               Text(
-                "LOG IN...",
+                "PLEASE WAIT",
                 style: TextStyle(fontFamily: "kanitm"),
               ),
             ],
